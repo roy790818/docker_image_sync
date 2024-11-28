@@ -1,2 +1,2 @@
 # 支持指定架构、多架构
---platform=linux/amd64 lscr.io/linuxserver/firefox:latest
+--platform=linux/amd64 gorakhargosh/watchdog
