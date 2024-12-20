@@ -1,2 +1,2 @@
 # 支持指定架构、多架构
---platform=linux/amd64 jlesage/docker-handbrake
+--platform=linux/amd64 docker-handbrake
